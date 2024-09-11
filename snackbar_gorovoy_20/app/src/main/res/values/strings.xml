@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">snackbar_gorovoy_20</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="default_snackbar">Стандартный SnackBar</string>
+    <string name="call_action_snackbar">SnackBar с кнопкой</string>
+    <string name="custom_snackbar_txt">Нестандартный SnackBar</string>
+
+</resources>
